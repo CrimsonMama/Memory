@@ -14,7 +14,7 @@ header {
 }
 .banner {
     position: relative;
-    left: 50%;
+    right: 50%;
 }
 .pica {
     position: relative;
