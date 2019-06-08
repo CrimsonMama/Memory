@@ -15,6 +15,7 @@ header {
 .banner {
     position: relative;
     right: 50%;
+    max-width: 100%;
 }
 .pica {
     position: relative;
