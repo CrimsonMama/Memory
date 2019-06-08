@@ -13,8 +13,8 @@ header {
     bottom: 30%;
 }
 .banner {
-    position: relative;
-    right: 50%;
+    margin: 30px;
+    padding: 10px;
     max-width: 100%;
 }
 .pica {
