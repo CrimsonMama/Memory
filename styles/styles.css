@@ -13,8 +13,6 @@ header {
     bottom: 30%;
 }
 .banner {
-    position: absolute;
-    left: 4%;
     display: block;
     margin-left: auto;
     margin-right: auto;
