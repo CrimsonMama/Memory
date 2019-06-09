@@ -1,12 +1,13 @@
 body {
-    background-color: #d9c6e9;
+    background-color: #838de7;
     margin: 25px;
-    border: solid 2px rgb(24, 17, 56);
+    border: double 5px rgb(43, 22, 134);
     padding: 20px;
 }
 header {
     font-size: 40px;
-    color: #8535e0;
+    color: #290f64;
+    text-shadow: 3px 3px 7px #290f64;
     text-align: center;
     padding: 10px;
     position: relative;
@@ -35,18 +36,18 @@ header {
 }
 p {
     font-family: Arial, Helvetica, sans-serif;
-    color: #131d66;
+    color: #0a0e30;
     font-size: 18px;
 }
 .vidhead {
     font-family: cursive;
-    color: #131d66;
+    color: #0a0e30;
     font-size: 22px;
     text-align: center;
 }
 footer {
     font-family: cursive;
-    color: #131d66;
+    color: #e03d81;
     font-size: 22px;
     text-align: center;
 }
