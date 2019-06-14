@@ -1,8 +1,26 @@
 body {
-    background-color: #838de7;
+    background-color: #cdd7ea;
     margin: 25px;
     border: double 5px rgb(43, 22, 134);
     padding: 20px;
+    animation: change 5s infinite;
+}
+
+@keyframes change {
+    0% { background-color: #cdd7ea;}
+    8% { background-color: #60c4e5;}
+    16% { background-color: #9864e2;}
+    24% { background-color: #769fd8;}
+    32% { background-color: #6492db;}
+    40% { background-color: #5084d8;}
+    48% { background-color: #3675db;}
+    55% { background-color: #1e65d8;}
+    63% { background-color: #3675db;}
+    71% { background-color: #5084d8;}
+    79% { background-color: #6492db;}
+    87% { background-color: #769fd8;}
+    95% { background-color: #9864e2;}
+    100% { background-color: #60c4e5;}
 }
 header {
     font-size: 40px;
